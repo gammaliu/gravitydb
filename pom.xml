@@ -129,6 +129,7 @@
         <module>titan-dist</module>
         <module>titan-doc</module>
         <module>titan-solr</module>
+        <module>titan-example</module>
     </modules>
     <repositories>
         <repository>
